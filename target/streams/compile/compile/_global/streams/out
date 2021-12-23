@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/aadami/repos/chat-system-akka-typed/src/main/scala/it/adami/chat/actor/UserBehavior.scala:14:95: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: PostedConfirmation(_)[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def apply(username: String): Behavior[UserRoot] = Behaviors.receive { (context, message) => message match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
